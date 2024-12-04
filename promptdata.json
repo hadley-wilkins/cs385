@@ -1,7 +1,7 @@
-{ journalPrompts: [
+{ "journalPrompts" : [
   {
-    name: "Self-Reflection",
-    promptList: [
+    "name" : "Self-Reflection",
+    "promptList" : [
       " ",
       "What are three things you learned about yourself this week?",
       "Describe a recent challenge and how you handled it.",
@@ -10,8 +10,8 @@
     ],
   },
   {
-    name: "Gratitude",
-    promptList: [
+    "name" : "Gratitude",
+    "promptList" : [
       " ",
       "List five things you are grateful for today.",
       "Who in your life are you most thankful for, and why?",
@@ -20,8 +20,8 @@
     ],
   },
   {
-    name: "Goal-Setting",
-    promptList: [
+    "name" : "Goal-Setting",
+    "promptList" : [
       " ",
       "What are three short-term goals you want to accomplish this month?",
       "Describe your ideal day and how you can make it happen.",
@@ -30,8 +30,8 @@
     ],
   },
   {
-    name: "Creativity",
-    promptList: [
+    "name" : "Creativity",
+    "promptList" : [
       " ",
       "If you could invent something to improve the world, what would it be?",
       "Describe your perfect escape or adventure.",
@@ -40,8 +40,8 @@
     ],
   },
   {
-    name: "Mindfulness",
-    promptList: [
+    "name" : "Mindfulness",
+    "promptList" : [
       " ",
       "Describe how you’re feeling at this very moment.",
       "What does your ideal self-care routine look like?",
