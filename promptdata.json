@@ -1,4 +1,4 @@
-[
+{ journalPrompts: [
   {
     name: "Self-Reflection",
     promptList: [
@@ -49,4 +49,5 @@
       "What is one thing you can do today to practice mindfulness?",
     ],
   },
-];
+]
+}
